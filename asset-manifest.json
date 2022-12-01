@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.91af47c2.css",
-    "main.js": "/static/js/main.22b68d28.js",
+    "main.css": "/static/css/main.6e8267e2.css",
+    "main.js": "/static/js/main.70881090.js",
     "static/js/787.88012170.chunk.js": "/static/js/787.88012170.chunk.js",
-    "static/media/UC_BLANCO.png": "/static/media/UC_BLANCO.dc1e530c25e13b14e019.png",
+    "static/media/UC-BLANCO-01.png": "/static/media/UC-BLANCO-01.cfccaeb6efcbd0c2027c.png",
     "static/media/Logo-EcoleCentrale.png": "/static/media/Logo-EcoleCentrale.5699115aa4bde577b083.png",
     "index.html": "/index.html",
-    "main.91af47c2.css.map": "/static/css/main.91af47c2.css.map",
-    "main.22b68d28.js.map": "/static/js/main.22b68d28.js.map",
+    "main.6e8267e2.css.map": "/static/css/main.6e8267e2.css.map",
+    "main.70881090.js.map": "/static/js/main.70881090.js.map",
     "787.88012170.chunk.js.map": "/static/js/787.88012170.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91af47c2.css",
-    "static/js/main.22b68d28.js"
+    "static/css/main.6e8267e2.css",
+    "static/js/main.70881090.js"
   ]
 }
