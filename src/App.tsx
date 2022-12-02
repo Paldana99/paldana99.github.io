@@ -1,10 +1,10 @@
-import React from "react";
-import "./App.css";
-import Header from "./Header/header";
-import "bootstrap/dist/css/bootstrap.min.css";
-import Education from "./Education/education";
+import React from 'react'
+import './App.css'
+import Header from './Header/header'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Education from './Education/education'
 
-function App() {
+function App(): any {
   return (
     <main>
       <Header />
@@ -16,7 +16,7 @@ function App() {
       </section>
 
       <section id="stick">
-        <h1>Hey I'm Pablo</h1>
+        <h1>Hey I m Pablo</h1>
         <p>pablo</p>
         <p>pablo</p>
         <p>pablo</p>
@@ -26,10 +26,10 @@ function App() {
       </section>
 
       <section className="footer">
-        <h1>Let's end</h1>
+        <h1>End</h1>
       </section>
     </main>
-  );
+  )
 }
 
-export default App;
+export default App
