@@ -6,7 +6,7 @@
 .App {
   text-align: center;
 }
-h1{
+h1 {
   font-size: 5rem;
   font-weight: bolder;
 }
@@ -16,24 +16,20 @@ p {
 }
 section {
   height: 50vh;
-  color: white;
+  color: #bdc7d0;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
-.header{
-  background-color: #d3aeae;
-  height: 90vh;
-}
 
-.education{
-  background-color: seagreen;
+.education {
+  background-color: #201547;
   height: 90vh;
 }
 
 .contents {
-  background-color: goldenrod;
+  background-color: #9fb9cc;
 }
 #stick {
   background-color: rgb(255, 255, 255);

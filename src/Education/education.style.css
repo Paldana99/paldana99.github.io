@@ -1,16 +1,16 @@
 h2 {
-    font-size: 25px;
+  font-size: 25px;
 }
 
 h3 {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 p {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 .card-horizontal {
-    display: flex;
-    flex: 1 1 auto;
+  display: flex;
+  flex: 1 1 auto;
 }

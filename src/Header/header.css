@@ -1,4 +1,14 @@
+.header {
+  background-color: #051c2c;
+  height: 90vh;
+  color: #e93cac;
+}
+
 .header > h1 {
-    font-size: 5rem;
-    font-weight: bolder;
+  font-size: 5rem;
+  font-weight: bolder;
+}
+
+.bottom {
+  top: 80%;
 }

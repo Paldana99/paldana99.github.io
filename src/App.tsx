@@ -1,36 +1,34 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 import Header from "./Header/header";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 import Education from "./Education/education";
 
 function App() {
   return (
-      <main>
-          <Header/>
+    <main>
+      <Header />
 
-          <Education/>
+      <Education />
 
-          <section className='contents'>
-              <h1>PabloPablo</h1>
-          </section>
+      <section className="contents">
+        <h1>PabloPablo</h1>
+      </section>
 
-          <section id="stick">
-              <h1>
-                  Hey I'm Pablo
-              </h1>
-              <p>pablo</p>
-              <p>pablo</p>
-              <p>pablo</p>
-              <p>pablo</p>
-              <p>pablo</p>
-              <p>pablo</p>
-          </section>
+      <section id="stick">
+        <h1>Hey I'm Pablo</h1>
+        <p>pablo</p>
+        <p>pablo</p>
+        <p>pablo</p>
+        <p>pablo</p>
+        <p>pablo</p>
+        <p>pablo</p>
+      </section>
 
-          <section className='footer'>
-              <h1>Let's end</h1>
-          </section>
-      </main>
+      <section className="footer">
+        <h1>Let's end</h1>
+      </section>
+    </main>
   );
 }
 
